@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_corbic" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_corbic?logo=twitter&style=for-the-badge" alt="tushar_corbic" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI, ReactNative, Reactjs, IOS development**
 
 - 💬 Ask me about **C++, Python, Golang, Machine Learning**
 
 - 📫 How to reach me **kshitizgupta108@gmail.com**
+
+- ⚡ Fun fact **I am think I am very patient**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

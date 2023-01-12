@@ -16,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tushar_corbic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar_corbic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-gupta-406a871b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-gupta-406a871b4" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kshitizgupta108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kshitizgupta108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
